@@ -1,0 +1,9 @@
+.textContainer{
+    color: #475467;
+    border: 1px solid #E3E7ED;
+    border-radius: 5px;
+    height: fit-content;
+    width: fit-content;
+    max-width: 200px;
+    cursor: pointer;
+}

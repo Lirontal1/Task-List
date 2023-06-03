@@ -1,0 +1,6 @@
+.mainBox{
+    width: 100%;
+    min-height: 192px;
+    height: fit-content;
+    border-radius: 6px;
+}
